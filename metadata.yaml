@@ -1,0 +1,43 @@
+_repo: Die-Philippinen-und-ihre-BewohnerSechs-Skizzen_24820
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Karsten, Gustav
+    birthdate: 1820
+    deathdate: 1900
+    gutenberg_agent_id: '26761'
+    url: http://www.gutenberg.org/2009/agents/26761
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Semper, C. (Carl)
+    aliases:
+    - Semper, Karl Gottfried
+    - Semper, Carl
+    birthdate: 1832
+    deathdate: 1893
+    gutenberg_agent_id: '26755'
+    url: http://www.gutenberg.org/2009/agents/26755
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Semper
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2008-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24820'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Physical geography -- Philippines'
+- !lcsh 'Philippines -- Description and travel'
+- !lcsh 'Natural history -- Philippines'
+- !lcsh 'Ethnology -- Philippines'
+title: 'Die Philippinen und ihre Bewohner
+
+  Sechs Skizzen'
+url: http://www.gutenberg.org/ebooks/24820
